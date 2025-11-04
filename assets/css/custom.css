@@ -1,0 +1,11 @@
+/* 调整顶部导航栏右移，使其与正文对齐 */
+.masthead__menu {
+  margin-left: 270px; /* 可根据侧栏宽度微调，默认 270px 比较合适 */
+}
+
+/* 同时确保响应式布局在小屏幕正常 */
+@media screen and (max-width: 1000px) {
+  .masthead__menu {
+    margin-left: 0;
+  }
+}
