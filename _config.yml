@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jiehong QIU (邱杰宏)"
+title                    : # "Jiehong QIU (邱杰宏)"
 title_separator          : "-"
 name                     : &name "Jiehong QIU"
 description              : &description "Jiehong QIU's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Your Sidebar Name"
+  name             : "Jiehong QIU (邱杰宏)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Senior Research Fellow,Department of Industrial Systems and Engineering, The Hong Kong Polytechnic University "
+  location         : "Hung Hom, Kowloon, Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jiehqiu@polyu.edu.hk" 
 
   # Academic websites
   academia         : # URL
