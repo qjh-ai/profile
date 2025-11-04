@@ -5,15 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Overview
 
 I have developed and taught three main data science and AI-oriented courses, integrating **Python programming**, **econometrics**, and **AI-driven data analysis**.  
-Each course combines theory, coding, and real-world applications.
+Each course combines theory, coding, and real-world applications.<p><mark><b>All source codes and teaching materials are available upon request via email.</b></mark></p>
+
 
 ---
 
 ## 🧠 Course 1: Python 数据分析 (Python for Data Analysis)  
-**Total:** 12 sessions  
+
+本课程系统介绍 Python 在数据分析中的核心应用，涵盖编程基础、数据科学方法与经济金融实证案例。课程以实践为导向，帮助学习者掌握从数据获取、清洗、可视化到建模分析的完整流程。通过真实经济与金融场景的应用，学生将能够熟练运用 Python 工具进行数据驱动的研究与决策分析。
+
 ### Part I. Python 基础（5 节）
 1. **Python 基础** — Python 简介与常见 IDE。  
 2. **Python 安装与环境设置** — Anaconda、环境变量与包管理。  
@@ -41,41 +43,29 @@ Each course combines theory, coding, and real-world applications.
 
 本课程介绍因果推断的核心理论、机器学习方法在因果识别中的应用，以及如何通过 Python 实证实现政策与经济问题的因果分析。课程通过真实数据案例帮助学生掌握从因果假设建立到估计方法选择的全过程。
 
----
-
 ### 1. 因果推断与机器学习导论
 - 因果推断的基本框架  
 - 潜在结果模型与反事实思维  
 - 因果图与混淆偏误  
 
----
-
 ### 2. 结合机器学习算法进行因果推断：以养老计划对家庭消费的影响为例
 - 案例研究导引与研究问题介绍  
 - 实证研究结构与研究设计  
-
----
 
 ### 3. 数据准备与分析
 - 数据读取与导入  
 - 数据描述与特征解释  
 - 探索性数据分析与可视化  
 
----
-
 ### 4. 因果参数设定与估计目标
 - 平均处理效应（ATE, ATT, ATC）  
 - 潜在结果与处理变量定义  
 - 识别条件与可估性假设  
 
----
-
 ### 5. 因果关系识别假设
 - 可忽略性与独立性假设  
 - 稳定单元处理值假设（SUTVA）  
 - 平行趋势与外生性假设  
-
----
 
 ### 6. 回归方法 (Estimation Methods)
 #### 6.1 线性回归
@@ -87,21 +77,17 @@ Each course combines theory, coding, and real-world applications.
 #### 6.4 非参数双重机器学习算法
 - Kernel-based DML 与灵活函数逼近  
 
----
-
 ### 7. 因果推断的 Python 实现
 - 代码框架与估计流程  
 - 使用 `EconML`、`DoWhy`、`DoubleML` 等库  
 - 输出结果解释与可视化  
-
----
 
 ### 8. 综合项目与课程总结
 - 因果识别全流程复现  
 - 报告撰写与结果解释  
 - 模型选择与稳健性检验  
 
-👉 [查看课程合集（小红书）](https://itunes.apple.com/cn/app/id741292507?l=en&mt=8)
+👉 [查看课程合集（小红书）](http://xhslink.com/o/2ZFiRNsaJqr)
 
 ---
 
@@ -134,8 +120,7 @@ Each course combines theory, coding, and real-world applications.
 2. **Python 中级案例** — CNN 与 RNN 模型。  
 3. **Python 高级案例** — ResNet 模型微调与代码实现。  
 
-👉 [查看课程合集（小红书）](https://itunes.apple.com/cn/app/id741292507?l=en&mt=8)
-
+👉 [查看课程合集（小红书）](http://xhslink.com/o/8otR0YZi4cL)
 
 ---
 
