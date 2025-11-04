@@ -7,8 +7,9 @@ author_profile: true
 
 
 I have developed and taught three main data science and AI-oriented courses, integrating **Python programming**, **econometrics**, and **AI-driven data analysis**.  
-Each course combines theory, coding, and real-world applications.<p><mark><b>All source codes and teaching materials are available upon request via email.</b></mark></p>
+Each course combines theory, coding, and real-world applications.
 
+<p><mark><b>All source codes and teaching materials are available upon request via email.</b></mark></p>
 
 ---
 

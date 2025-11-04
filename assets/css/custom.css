@@ -9,3 +9,55 @@
     margin-left: 0;
   }
 }
+
+/* 调整左侧个人简介区域字体大小 */
+.author__bio,
+.author__content,
+.author__urls-wrapper {
+  font-size: 1.05rem; /* 原本约0.9rem，可根据需要调整为1.1rem、1.2rem */
+  line-height: 1.6;
+}
+
+/* 调整姓名字体更突出 */
+.author__name {
+  font-size: 1.4rem;  /* 默认约1.2rem */
+  font-weight: 700;
+}
+
+
+/* 让头像完全居中显示 */
+.author__avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 1rem auto; /* 居中 + 与下方间距 */
+}
+
+/* 调整头像大小 */
+.author__avatar img {
+  width: 180px;   /* 默认150px，可根据需要调整 */
+  height: 180px;
+  border-radius: 50%; /* 保持圆形 */
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* 添加轻微阴影 */
+}
+
+
+/* ===== 顶部联合Logo样式 ===== */
+.top-logo-container {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.top-logo {
+  max-width: 720px;     /* 控制总宽度，可根据图片尺寸调整 */
+  width: 80%;           /* 自适应缩放 */
+  height: auto;
+  display: inline-block;
+  transition: transform 0.2s ease-in-out;
+}
+
+.top-logo:hover {
+  transform: scale(1.03);
+}
