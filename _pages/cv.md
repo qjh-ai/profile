@@ -7,7 +7,7 @@ author_profile: true
 
 # Academic Qualifications
 
-- **Ph.D., Economics**, Washington State University, USA — *May 2018*  
+- **Ph.D., Economics(Applied Econometrics, Empirical IO, Big Data)**, Washington State University, USA — *May 2018*  
 - **M.Sc., Applied Econometrics**, Sun Yat-Sen University, China — *June 2013*  
 - **B.A., Management**, South China Agricultural University, China — *June 2010*  
 
@@ -16,55 +16,70 @@ author_profile: true
 
 - **2024 – present**, Data Scientist & Senior Research Fellow, Department of Industrial & Systems Engineering, The Hong Kong Polytechnic University, Hong Kong  
 - **2022 – 2024**, Post-doctoral Researcher, Department of Applied Economics, School of Management, Fudan University, Shanghai  
-- **2018 – 2022**, CEO & Chief Data Scientist, Bayes Data Intelligence Inc., Guangzhou  
-
+- **2018 – 2022**, CEO & Chief Data Scientist, Bayes Data Intelligence Inc., Xi'an and Guangzhou, China
 
 # Industrial Projects Experience
 
+<div style="margin-left: 25px;">
+
 ### 1. Power Industry
-- State Grid Provincial Power Grid Data Governance (Tool Development + Routine Operations, 2019–2024, 4 Phases)  
-- State Grid Source–Grid–Load–Storage Coordination Optimization Project (2021–2023, 2 Phases)  
-- State Grid Knowledge Graph-Based Data Management (2021)  
-- State Grid Data-Driven Power Grid Fault Type Identification (2022–2024, 2 Phases)  
+<ul>
+  <li>State Grid Provincial Power Grid Data Governance (Tool Development + Routine Operations, 2019–2024, 4 Phases)</li>
+  <li>State Grid Source–Grid–Load–Storage Coordination Optimization Project (2021–2023, 2 Phases)</li>
+  <li>State Grid Knowledge Graph-Based Data Management (2021)</li>
+  <li>State Grid Data-Driven Power Grid Fault Type Identification (2022–2024, 2 Phases)</li>
+</ul>
 
 ### 2. Financial Industry
-- Regulatory Comparison System for Banking Regulatory Commission (2019–2024, Ongoing Iterations)  
-- Financial Risk Assessment Model (2023–2024)  
-- Real-Time Financial Sentiment Index Construction (2019–2020)  
+<ul>
+  <li>Regulatory Comparison System for Banking Regulatory Commission (2019–2024, Ongoing Iterations)</li>
+  <li>Financial Risk Assessment Model (2023–2024)</li>
+  <li>Real-Time Financial Sentiment Index Construction (2019–2020)</li>
+</ul>
 
 ### 3. Healthcare Industry
-- Big Data Analysis Platform for ENT Medical Records (2018–2020, 2 Phases)  
-- AI for Medical Research (2020–2024)  
+<ul>
+  <li>Big Data Analysis Platform for ENT Medical Records (2018–2020, 2 Phases)</li>
+  <li>AI for Medical Research (2020–2024)</li>
+</ul>
 
 ### 4. Academic Institutions
-- Big Data Platform for University Research (2019–2020, 2 Phases)  
-- Urban Spatial Big Data Platform (2017–2020, 4 Phases)  
-- AI for Social Science Research (2019–2020, 2 Phases)  
+<ul>
+  <li>Big Data Platform for University Research (2019–2020, 2 Phases)</li>
+  <li>Urban Spatial Big Data Platform (2017–2020, 4 Phases)</li>
+  <li>AI for Social Science Research (2019–2020, 2 Phases)</li>
+</ul>
 
 ### 5. Telecommunications Industry
-- Telecom Site Selection System (2018–2020, 3 Phases)  
+<ul>
+  <li>Telecom Site Selection System (2018–2020, 3 Phases)</li>
+</ul>
 
 ### 6. General Industry
-- Intelligent Writing System (2019)  
-- Singularity Big Data Platform (2020–2022)  
+<ul>
+  <li>Intelligent Writing System (2019)</li>
+  <li>Singularity Big Data Platform (2020–2022)</li>
+</ul>
+
+</div>
 
 
 # Skills and AI Modeling
 
-**Programming and Databases (Proficient):** Python, R, Stata, Matlab, PostgreSQL, SQL  
-**Large Language Models (Proficient):** Reinforcement Learning, Diffusion, Customized LLM  
-**Econometric Models (Proficient):** Causal Analysis, A/B Test, Linear Models, Panel Data, Time Series, Discrete Choice Models  
-**Machine Learning (Proficient):** SVM, Naive Bayes, KNN, OLS, Ridge/Lasso Regression, K-means, DBSCAN, Random Forest, XGBoost, GBM, etc.  
-**Deep Learning (Proficient):** CNN (LeNet, AlexNet, GoogLeNet, VGG, DRL), RNN (LSTM, GRU), GAN, Transformer, Diffusion Models  
-**NLP (Proficient):** Word2Vec, GloVe, FastText, Seq2Seq, Attention, ELMo, BERT  
-**Computer Vision (Proficient):** Image Classification (CNN/ResNet/VGG), Object Detection (YOLO/SSD), Segmentation (U-Net, Mask R-CNN, Transformer-based)  
-**Recommendation Systems (Proficient):** Collaborative Filtering, DeepFM, RNN-based, GAN-based Models  
-**Frameworks (Proficient):** PyTorch, TensorFlow  
-**AutoML (Proficient):** AutoKeras, Auto-sklearn, Google Cloud AutoML  
-**Visualization (Proficient):** Matplotlib, Plotly, Echarts  
-**Data Governance (Proficient):** Data Quality, Stewardship, Metadata Management, Toolchains  
-**Code & System:** Git, Linux, Docker  
-**IDE (Proficient):** Spyder, Jupyter, PyCharm, Sublime Text  
+- **Programming and Databases (Proficient):** Python, R, Stata, Matlab, PostgreSQL, SQL  
+- **Large Language Models (Proficient):** Reinforcement Learning, Diffusion, Customized LLM  
+- **Econometric Models (Proficient):** Causal Analysis, A/B Test, Linear Models, Panel Data, Time Series, Discrete Choice Models  
+- **Machine Learning (Proficient):** SVM, Naive Bayes, KNN, OLS, Ridge/Lasso Regression, K-means, DBSCAN, Random Forest, XGBoost, GBM, etc.  
+- **Deep Learning (Proficient):** CNN (LeNet, AlexNet, GoogLeNet, VGG, DRL), RNN (LSTM, GRU), GAN, Transformer, Diffusion Models  
+- **NLP (Proficient):** Word2Vec, GloVe, FastText, Seq2Seq, Attention, ELMo, BERT  
+- **Computer Vision (Proficient):** Image Classification (CNN/ResNet/VGG), Object Detection (YOLO/SSD), Segmentation (U-Net, Mask R-CNN, Transformer-based)  
+- **Recommendation Systems (Proficient):** Collaborative Filtering, DeepFM, RNN-based, GAN-based Models  
+- **Frameworks (Proficient):** PyTorch, TensorFlow  
+- **AutoML (Proficient):** AutoKeras, Auto-sklearn, Google Cloud AutoML  
+- **Visualization (Proficient):** Matplotlib, Plotly, Echarts  
+- **Data Governance (Proficient):** Data Quality, Stewardship, Metadata Management, Toolchains  
+- **Code & System:** Git, Linux, Docker  
+- **IDE (Proficient):** Spyder, Jupyter, PyCharm, Sublime Text  
 
 
 # Grants
