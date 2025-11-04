@@ -19,7 +19,8 @@ My current projects include **AI-powered aviation analytics**, **autonomous mobi
 
 ## Research Interest
 
-![Research Interest Diagram](/images/v1.png)
+![Research Interest Diagram]({{ site.baseurl }}/images/v1.png)
+
 
 My research lies at the intersection of **AI as tools**, **Empirical Industrial Organization**, and **Software Engineering as Deliverables**:
 
